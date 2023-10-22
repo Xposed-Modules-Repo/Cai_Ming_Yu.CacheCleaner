@@ -1,6 +1,8 @@
 # 彩銘羽 CacheCleaner
 ソフトウェアが起動したら、まずキャッシュをクリアする！
 
+This repo is exactly the same as [this one](https://github.com/Cai-Ming-Yu/CMY-CacheCleaner).
+
 Use Xposed to clear the software's cache data when it starts.
 
 ## Env
