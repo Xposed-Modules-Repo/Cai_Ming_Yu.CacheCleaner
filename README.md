@@ -1,7 +1,7 @@
 # 彩銘羽 CacheCleaner
 アプリの起動時にキャッシュをクリアするよ！
 
-このリポジトリは[ここ](https://github.com/Xposed-Modules-Repo/Cai_Ming_Yu.CacheCleaner)と同じです。
+このリポジトリは[ここ](https://github.com/Cai-Ming-Yu/CMY-CacheCleaner)と同じです。
 
 Xposedを使用してアプリの起動時にキャッシュをクリアします。
 
